@@ -11,11 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "kierownik magazynu",
         "startDate": "2020",
         "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
         "images": [
-          "images/portfolio/animal-shelter/health.jpg"
+          "images/portfolio/stock/health.jpg"
         ],
         "url": "",
         "technologies": [
