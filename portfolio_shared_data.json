@@ -7,11 +7,6 @@
           "name": "github",
           "url": "https://github.com/Fiston-pro",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
@@ -27,12 +22,7 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
+        }, 
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
@@ -52,12 +42,7 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
+        }, 
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",

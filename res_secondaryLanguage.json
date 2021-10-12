@@ -13,88 +13,81 @@
       {
         "title": "Animal Shelter",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/health.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },{
+            "class":"devicon-django-plain",
+            "name": "Django"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Quote App",
+        "startDate": "2021",
+        "description": "Osobisty projekt do wyświetlania ulubionych cytatów, gdy czujesz się przygnębiony. Buduję je za pomocą frameworka flutter dla wielu platform, co oznacza, że ​​może działać zarówno na Androidzie, jak i IOS :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/quotes.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-dart-original",
+            "name": "Dart"
+          },
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          }
+        ]
+      },
+      {
+        "title": "ta strona internetowa",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/adventure/website.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Javascript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "BiriFresh Ltd",
+        "company": "BiriFresh.ltd",
         "title": "Technical Founder and Web Designer",
-        "years": "10.2020 - 11.2021",
+        "years": "08.2020 - 08.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Wordpress"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "PHP",
+          "JavaScript"
         ]
       },
       {
@@ -102,14 +95,13 @@
         "title": "Web Master",
         "years": "09.2019 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Wordpress"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "PHP",
+          "JavaScript"
         ]
       }
     ]
