@@ -15,7 +15,7 @@
         "startDate": "2020",
         "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
         "images": [
-          "images/portfolio/stock/health.jpg"
+          "images/portfolio/iHealth/health.jpg"
         ],
         "url": "",
         "technologies": [
@@ -37,11 +37,11 @@
         ]
       },
       {
-        "title": "Quote App",
+        "title": "wycena aplikacja",
         "startDate": "2021",
         "description": "Osobisty projekt do wyświetlania ulubionych cytatów, gdy czujesz się przygnębiony. Buduję je za pomocą frameworka flutter dla wielu platform, co oznacza, że ​​może działać zarówno na Androidzie, jak i IOS :)",
         "images": [
-          "images/portfolio/photography/quotes.png"
+          "images/portfolio/quoteApp/quotes.png"
         ],
         "url": "",
         "technologies": [
@@ -60,7 +60,7 @@
         "startDate": "2021",
         "description": "",
         "images": [
-          "images/portfolio/adventure/website.png"
+          "images/portfolio/thisWebsite/website.png"
         ],
         "url": "",
         "technologies": [

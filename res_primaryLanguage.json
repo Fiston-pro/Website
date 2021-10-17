@@ -11,11 +11,63 @@
     },
     "projects": [
       {
+        "title": "BiriFresh",
+        "startDate": "2019",
+        "description": "",
+        "images": [
+          "images/portfolio/birifresh/birifresh-gif.gif"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },{
+            "class":"devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Star Construction",
+        "startDate": "2019",
+        "description": "",
+        "images": [
+          "images/portfolio/starconstruction/starconstruction.gif"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },{
+            "class":"devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "Stock Manager",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work on. I've learned many technologies and my code was reviewed by awesome curator. Application helps pharmacist manage everything in the store by alerting medecines which are about to expire and many more",
         "images": [
-          "images/portfolio/stock/health.jpg"
+          "images/portfolio/iHealth/health.jpg"
         ],
         "url": "",
         "technologies": [
@@ -41,7 +93,7 @@
         "startDate": "2021",
         "description": "Personal project for displaying your favorite quotes whenever you feel down. I build them using a flutter framework for cross platform which means it can run both on android and IOS :)",
         "images": [
-          "images/portfolio/photography/quotes.png"
+          "images/portfolio/quoteApp/quotes.png"
         ],
         "url": "",
         "technologies": [
@@ -60,7 +112,7 @@
         "startDate": "2021",
         "description": "",
         "images": [
-          "images/portfolio/adventure/website.png"
+          "images/portfolio/thisWebsite/this-website.gif"
         ],
         "url": "",
         "technologies": [
