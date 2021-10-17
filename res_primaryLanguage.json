@@ -123,6 +123,13 @@
           {
             "class": "devicon-javascript-plain",
             "name": "Javascript"
+          },{
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }

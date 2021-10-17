@@ -11,6 +11,58 @@
     },
     "projects": [
       {
+        "title": "BiriFresh",
+        "startDate": "2019",
+        "description": "",
+        "images": [
+          "images/portfolio/birifresh/birifresh-gif.gif"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },{
+            "class":"devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Star Construction",
+        "startDate": "2019",
+        "description": "",
+        "images": [
+          "images/portfolio/starconstruction/starconstruction.gif"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },{
+            "class":"devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "kierownik magazynu",
         "startDate": "2020",
         "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
@@ -60,7 +112,7 @@
         "startDate": "2021",
         "description": "",
         "images": [
-          "images/portfolio/thisWebsite/website.png"
+          "images/portfolio/thisWebsite/this-website.gif"
         ],
         "url": "",
         "technologies": [
@@ -71,6 +123,13 @@
           {
             "class": "devicon-javascript-plain",
             "name": "Javascript"
+          },{
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
@@ -78,7 +137,7 @@
     "experience": [
       {
         "company": "BiriFresh.ltd",
-        "title": "Technical Founder and Web Designer",
+        "title": "założyciel techniczny i projektant stron internetowych",
         "years": "08.2020 - 08.2021",
         "mainTech": [
           "Wordpress"
