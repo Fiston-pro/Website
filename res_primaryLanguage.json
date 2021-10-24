@@ -143,11 +143,11 @@
         "technologies": [
           {
             "class": "devicon-dart-original",
-            "name": "Dart"
+            "name": "Flutter"
           },
           {
             "class": "devicon-flutter-plain",
-            "name": "Flutter"
+            "name": "Dart"
           }
         ]
       }
