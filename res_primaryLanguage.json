@@ -95,7 +95,7 @@
         "images": [
           "images/portfolio/quoteApp/quotes.png"
         ],
-        "url": "",
+        "url": "https://github.com/Fiston-pro/QuoteApp",
         "technologies": [
           {
             "class": "devicon-dart-original",
@@ -130,6 +130,24 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          }
+        ]
+      },{
+        "title": "World Time",
+        "startDate": "2021",
+        "description": "It is a Flutter application that runs on Android or iOS. This app is a wizard who lends you a wand and allows you to choose any place on our planet, showing you time and time zone instantly.",
+        "images": [
+          "images/portfolio/worldtime/World Time.gif"
+        ],
+        "url": "https://github.com/Fiston-pro/WorldTimeApp",
+        "technologies": [
+          {
+            "class": "devicon-dart-original",
+            "name": "Dart"
+          },
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           }
         ]
       }
