@@ -43,7 +43,7 @@
         "images": [
           "images/portfolio/starconstruction/starconstruction.gif"
         ],
-        "url": "",
+        "url": "https://starconstruction.rw/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -63,7 +63,7 @@
         ]
       },
       {
-        "title": "kierownik magazynu",
+        "title": "menedżer zapasów leków",
         "startDate": "2020",
         "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
         "images": [
