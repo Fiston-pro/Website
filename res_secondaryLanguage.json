@@ -91,9 +91,10 @@
       {
         "title": "wycena aplikacja",
         "startDate": "2021",
-        "description": "Osobisty projekt do wyświetlania ulubionych cytatów, gdy czujesz się przygnębiony. Buduję je za pomocą frameworka flutter dla wielu platform, co oznacza, że ​​może działać zarówno na Androidzie, jak i IOS :)",
+        "description": "Aplikacja, która może wyświetlać Twoje ulubione cytaty, gdy tylko poczujesz się przygnębiony. Buduję go za pomocą platformy Flutter i platformy międzyplatformowej, dzięki czemu może działać zarówno na Androidzie, jak i na IOS :)",
         "images": [
-          "images/portfolio/quoteApp/quotes.png"
+          "images/portfolio/quoteApp/QuoteApp.gif",
+          "images/portfolio/quoteApp/QuoteApp.png"
         ],
         "url": "",
         "technologies": [
@@ -135,9 +136,10 @@
       },{
         "title": "aplikacja czasu na świecie",
         "startDate": "2021",
-        "description": "Jest to aplikacja Flutter działająca na Androidzie lub iOS. Ta aplikacja to czarodziej, który pożycza ci różdżkę i pozwala wybrać dowolne miejsce na naszej planecie, natychmiast pokazując czas i strefę czasową.",
+        "description": "Jest to aplikacja Flutter działająca na Androidzie lub iOS. Ta aplikacja jest jak czarodziej, który pożycza ci różdżkę i pozwala wybrać dowolne miejsce na naszej planecie oraz natychmiast pokazuje czas i strefę czasową.",
         "images": [
-          "images/portfolio/worldtime/worldtime.gif"
+          "images/portfolio/worldtime/worldtime.gif",
+          "images/portfolio/worldtime/WorldTimeApp.jpg"
         ],
         "url": "https://github.com/Fiston-pro/WorldTimeApp",
         "technologies": [
