@@ -139,7 +139,7 @@
         "description": "It is a Flutter application that runs on Android or iOS. This app is like a wizard who lends you a wand and allows you to choose any place on our planet, and shows you time and time zone instantly.",
         "images": [
           "images/portfolio/worldtime/worldtime.gif",
-          "images/portfolio/worldtime/WorldTimeApp.jpg"
+          "images/portfolio/worldtime/WorldTimeApp.png"
         ],
         "url": "https://github.com/Fiston-pro/WorldTimeApp",
         "technologies": [

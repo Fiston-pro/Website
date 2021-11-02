@@ -139,7 +139,7 @@
         "description": "Jest to aplikacja Flutter działająca na Androidzie lub iOS. Ta aplikacja jest jak czarodziej, który pożycza ci różdżkę i pozwala wybrać dowolne miejsce na naszej planecie oraz natychmiast pokazuje czas i strefę czasową.",
         "images": [
           "images/portfolio/worldtime/worldtime.gif",
-          "images/portfolio/worldtime/WorldTimeApp.jpg"
+          "images/portfolio/worldtime/WorldTimeApp.png"
         ],
         "url": "https://github.com/Fiston-pro/WorldTimeApp",
         "technologies": [
