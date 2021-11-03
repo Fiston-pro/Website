@@ -96,7 +96,7 @@
           "images/portfolio/quoteApp/QuoteApp.gif",
           "images/portfolio/quoteApp/QuoteApp.png"
         ],
-        "url": "",
+        "url": "https://github.com/Fiston-pro/QuoteApp",
         "technologies": [
           {
             "class": "devicon-dart-original",
