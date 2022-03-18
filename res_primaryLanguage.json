@@ -136,7 +136,7 @@
       },{
         "title": "World Time",
         "startDate": "2021",
-        "description": "It is a Flutter application that runs on Android or iOS. This app is like a wizard who lends you a wand and allows you to choose any place on our planet, and shows you time and time zone instantly.",
+        "description": " It is a Flutter application that runs on Android or iOS. This app is like a wizard who lends you a wand and allows you to choose any place on our planet, and shows you time and time zone instantly.",
         "images": [
           "images/portfolio/worldtime/worldtime.gif",
           "images/portfolio/worldtime/WorldTimeApp.png"
