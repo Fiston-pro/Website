@@ -180,6 +180,20 @@
     ],
     "experience": [
       {
+        "company": "Cisco Systems",
+        "title": "Software Engineer intern",
+        "years": "05.2022 - present",
+        "mainTech": [
+          "Wordpress"
+        ],
+        "technologies": [
+          "Python",
+          "Flask",
+          "React",
+          "Figma"
+        ]
+      },
+      {
         "company": "BiriFresh.ltd",
         "title": "Technical Founder and Web Designer",
         "years": "08.2020 - 08.2021",

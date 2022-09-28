@@ -180,6 +180,20 @@
     ],
     "experience": [
       {
+        "company": "Cisco Systems",
+        "title": "Stażysta Inżynier Oprogramowania",
+        "years": "05.2022 - present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Flask",
+          "React",
+          "Figma"
+        ]
+      },
+      {
         "company": "BiriFresh.ltd",
         "title": "założyciel techniczny i projektant stron internetowych",
         "years": "08.2020 - 08.2021",
