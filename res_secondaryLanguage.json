@@ -11,6 +11,30 @@
     },
     "projects": [
       {
+        "title": "Wykrywanie obiektów AI",
+        "startDate": "2022",
+        "description": "Notatnik Jupyter, który wykrywa różne obiekty i wyświetla emoji obiektów",
+        "images": [
+          "images/portfolio/objectdetection/office.gif",
+          "images/portfolio/objectdetection/road.gif"
+        ],
+        "url": "https://github.com/Fiston-pro/Emoji-Object-Detection",
+        "technologies": [
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-numpy-original",
+            "name": "numpy"
+          }
+        ]
+      },
+      {
         "title": "BiriFresh",
         "startDate": "2019",
         "description": "",
