@@ -1,63 +1,78 @@
 {
-    "basic_info": {
-      "name": "ISHIMWE Byiringiro Etienne",
-      "titles": [ "Software Engineer", "Mobile App Developer", "Full-Stack Developer", "Front-end Developer", "Back-end Developer" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/Fiston-pro",
-          "class": "fab fa-github"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name":"Python",
-          "class": "devicon-python-plain",
-          "level": "96"
-        },
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        }, 
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "90"
-        },
-        {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "75"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "60"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "WordPress",
-          "class": "devicon-wordpress-plain",
-          "level": "85"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "ISHIMWE Byiringiro Etienne",
+    "titles": [ "Software Engineer", "Mobile App Developer", "Full-Stack Developer", "Front-end Developer", "Back-end Developer" ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Fiston-pro",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name":"Python",
+        "class": "devicon-python-plain",
+        "level": "96"
+      },
+      {
+        "name": "C & C++",
+        "class": "devicon-c-plain",
+        "level": "95"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "95"
+      },
+      {
+        "name": "Dart",
+        "class": "devicon-dart-plain",
+        "level": "95"
+      }, 
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "90"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "75"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "60"
+      },
+      {
+        "name":"AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "80"
+      },
+      {
+        "name":"Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "80"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "WordPress",
+        "class": "devicon-wordpress-plain",
+        "level": "85"
+      }
+    ]
   }
+}

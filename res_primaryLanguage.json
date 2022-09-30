@@ -1,225 +1,225 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Fiston, an ambitious software engineer proficient in Javascript, Dart, python and more. Currently on track to become a junior engineer with [your company]. Connect with me! Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Fiston, an ambitious software engineer proficient in Javascript, Dart, python and more. Currently on track to become a software engineer at your company. Connect with me! Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Object detection AI",
+      "startDate": "2022",
+      "description": "A Jupyter Notebook which detect different objects and display the objects emoji",
+      "images": [
+        "images/portfolio/objectdetection/office.gif",
+        "images/portfolio/objectdetection/road.gif"
+      ],
+      "url": "https://github.com/Fiston-pro/Emoji-Object-Detection",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-numpy-original",
+          "name": "numpy"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Object detection AI",
-        "startDate": "2022",
-        "description": "A Jupyter Notebook which detect different objects and display the objects emoji",
-        "images": [
-          "images/portfolio/objectdetection/office.gif",
-          "images/portfolio/objectdetection/road.gif"
-        ],
-        "url": "https://github.com/Fiston-pro/Emoji-Object-Detection",
-        "technologies": [
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "Jupyter"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-numpy-original",
-            "name": "numpy"
-          }
-        ]
-      },
-      {
-        "title": "BiriFresh",
-        "startDate": "2019",
-        "description": "",
-        "images": [
-          "images/portfolio/birifresh/birifresh-gif.gif"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },{
-            "class":"devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Star Construction",
-        "startDate": "2019",
-        "description": "",
-        "images": [
-          "images/portfolio/starconstruction/starconstruction.gif"
-        ],
-        "url": "https://starconstruction.rw/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },{
-            "class":"devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Medecine Stock Manager",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work on. I've learned different technologies and my code was reviewed by awesome curator. Application helps pharmacist manage everything in the store by alerting medecines which are about to expire and many more",
-        "images": [
-          "images/portfolio/iHealth/health.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },{
-            "class":"devicon-django-plain",
-            "name": "Django"
-          }
-        ]
-      },
-      {
-        "title": "Quote App",
-        "startDate": "2021",
-        "description": "An App which can show your favorite quotes whenever you feel down. I build it using flutter a cross platform framework so that it can run on both android and IOS :)",
-        "images": [
-          "images/portfolio/quoteApp/QuoteApp.gif",
-          "images/portfolio/quoteApp/QuoteApp.png"
-        ],
-        "url": "https://github.com/Fiston-pro/QuoteApp",
-        "technologies": [
-          {
-            "class": "devicon-dart-original",
-            "name": "Dart"
-          },
-          {
-            "class": "devicon-flutter-plain",
-            "name": "Flutter"
-          }
-        ]
-      },
-      {
-        "title": "This Website",
-        "startDate": "2021",
-        "description": "",
-        "images": [
-          "images/portfolio/thisWebsite/this-website.gif"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },{
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      },{
-        "title": "World Time",
-        "startDate": "2021",
-        "description": " It is a Flutter application that runs on Android or iOS. This app is like a wizard who lends you a wand and allows you to choose any place on our planet, and shows you time and time zone instantly.",
-        "images": [
-          "images/portfolio/worldtime/worldtime.gif",
-          "images/portfolio/worldtime/WorldTimeApp.png"
-        ],
-        "url": "https://github.com/Fiston-pro/WorldTimeApp",
-        "technologies": [
-          {
-            "class": "devicon-dart-original",
-            "name": "Flutter"
-          },
-          {
-            "class": "devicon-flutter-plain",
-            "name": "Dart"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Cisco Systems",
-        "title": "Software Engineer intern",
-        "years": "05.2022 - present",
-        "mainTech": [
-          "Python"
-        ],
-        "technologies": [
-          "Python",
-          "Flask",
-          "React",
-          "Figma"
-        ]
-      },
-      {
-        "company": "BiriFresh.ltd",
-        "title": "Technical Founder and Web Designer",
-        "years": "08.2020 - 08.2021",
-        "mainTech": [
-          "Wordpress"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "PHP",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "Star Construction Ltd",
-        "title": "Web Master",
-        "years": "03.2020 - 08.2021",
-        "mainTech": [
-          "Wordpress"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "PHP",
-          "JavaScript"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "BiriFresh",
+      "startDate": "2019",
+      "description": "",
+      "images": [
+        "images/portfolio/birifresh/birifresh-gif.gif"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },{
+          "class":"devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Star Construction",
+      "startDate": "2019",
+      "description": "",
+      "images": [
+        "images/portfolio/starconstruction/starconstruction.gif"
+      ],
+      "url": "https://starconstruction.rw/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },{
+          "class":"devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Medecine Stock Manager",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work on. I've learned different technologies and my code was reviewed by awesome curator. Application helps pharmacist manage everything in the store by alerting medecines which are about to expire and many more",
+      "images": [
+        "images/portfolio/iHealth/health.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },{
+          "class":"devicon-django-plain",
+          "name": "Django"
+        }
+      ]
+    },
+    {
+      "title": "Quote App",
+      "startDate": "2021",
+      "description": "An App which can show your favorite quotes whenever you feel down. I build it using flutter a cross platform framework so that it can run on both android and IOS :)",
+      "images": [
+        "images/portfolio/quoteApp/QuoteApp.gif",
+        "images/portfolio/quoteApp/QuoteApp.png"
+      ],
+      "url": "https://github.com/Fiston-pro/QuoteApp",
+      "technologies": [
+        {
+          "class": "devicon-dart-original",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "This Website",
+      "startDate": "2021",
+      "description": "",
+      "images": [
+        "images/portfolio/thisWebsite/this-website.gif"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },{
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },{
+      "title": "World Time",
+      "startDate": "2021",
+      "description": " It is a Flutter application that runs on Android or iOS. This app is like a wizard who lends you a wand and allows you to choose any place on our planet, and shows you time and time zone instantly.",
+      "images": [
+        "images/portfolio/worldtime/worldtime.gif",
+        "images/portfolio/worldtime/WorldTimeApp.png"
+      ],
+      "url": "https://github.com/Fiston-pro/WorldTimeApp",
+      "technologies": [
+        {
+          "class": "devicon-dart-original",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Dart"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cisco Systems",
+      "title": "Software Engineer intern",
+      "years": "05.2022 - present",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "React",
+        "Figma"
+      ]
+    },
+    {
+      "company": "BiriFresh.ltd",
+      "title": "Technical Founder and Web Designer",
+      "years": "08.2020 - 08.2021",
+      "mainTech": [
+        "Wordpress"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Star Construction Ltd",
+      "title": "Web Master",
+      "years": "03.2020 - 08.2021",
+      "mainTech": [
+        "Wordpress"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript"
+      ]
+    }
+  ]
+}

@@ -1,225 +1,225 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Fiston, ambitny inżynier oprogramowania biegły w Javascript, Dart, Pythonie i nie tylko. Obecnie na dobrej drodze do zostania młodszym inżynierem w [Twojej firmie]. Połącz się ze mną! Dziękuję Ci 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Cześć",
+    "description": "👋 Jestem Fiston, ambitny inżynier oprogramowania biegły w Javascript, Dart, Pythonie i nie tylko. Obecnie na dobrej drodze do zostania inżynierem oprogramowania w Twojej firmie. Połącz się ze mną! Dziękuję 💜",
+    "section_name": {
+      "about": "O mnie",
+      "projects": "Projekty",
+      "skills": "Umiejętności",
+      "experience": "Doświadczenie"
+    }
+  },
+  "projects": [
+    {
+      "title": "Wykrywanie obiektów AI",
+      "startDate": "2022",
+      "description": "Notatnik Jupyter, który wykrywa różne obiekty i wyświetla emoji obiektów",
+      "images": [
+        "images/portfolio/objectdetection/office.gif",
+        "images/portfolio/objectdetection/road.gif"
+      ],
+      "url": "https://github.com/Fiston-pro/Emoji-Object-Detection",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-numpy-original",
+          "name": "numpy"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Wykrywanie obiektów AI",
-        "startDate": "2022",
-        "description": "Notatnik Jupyter, który wykrywa różne obiekty i wyświetla emoji obiektów",
-        "images": [
-          "images/portfolio/objectdetection/office.gif",
-          "images/portfolio/objectdetection/road.gif"
-        ],
-        "url": "https://github.com/Fiston-pro/Emoji-Object-Detection",
-        "technologies": [
-          {
-            "class": "devicon-jupyter-plain",
-            "name": "Jupyter"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-numpy-original",
-            "name": "numpy"
-          }
-        ]
-      },
-      {
-        "title": "BiriFresh",
-        "startDate": "2019",
-        "description": "",
-        "images": [
-          "images/portfolio/birifresh/birifresh-gif.gif"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },{
-            "class":"devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Star Construction",
-        "startDate": "2019",
-        "description": "",
-        "images": [
-          "images/portfolio/starconstruction/starconstruction.gif"
-        ],
-        "url": "https://starconstruction.rw/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },{
-            "class":"devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "menedżer zapasów leków",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
-        "images": [
-          "images/portfolio/iHealth/health.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },{
-            "class":"devicon-django-plain",
-            "name": "Django"
-          }
-        ]
-      },
-      {
-        "title": "wycena aplikacja",
-        "startDate": "2021",
-        "description": "Aplikacja, która może wyświetlać Twoje ulubione cytaty, gdy tylko poczujesz się przygnębiony. Buduję go za pomocą platformy Flutter i platformy międzyplatformowej, dzięki czemu może działać zarówno na Androidzie, jak i na IOS :)",
-        "images": [
-          "images/portfolio/quoteApp/QuoteApp.gif",
-          "images/portfolio/quoteApp/QuoteApp.png"
-        ],
-        "url": "https://github.com/Fiston-pro/QuoteApp",
-        "technologies": [
-          {
-            "class": "devicon-dart-original",
-            "name": "Flutter"
-          },
-          {
-            "class": "devicon-flutter-plain",
-            "name": "Dart"
-          }
-        ]
-      },
-      {
-        "title": "ta strona internetowa",
-        "startDate": "2021",
-        "description": "",
-        "images": [
-          "images/portfolio/thisWebsite/this-website.gif"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },{
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      },{
-        "title": "aplikacja czasu na świecie",
-        "startDate": "2021",
-        "description": "Jest to aplikacja Flutter działająca na Androidzie lub iOS. Ta aplikacja jest jak czarodziej, który pożycza ci różdżkę i pozwala wybrać dowolne miejsce na naszej planecie oraz natychmiast pokazuje czas i strefę czasową.",
-        "images": [
-          "images/portfolio/worldtime/worldtime.gif",
-          "images/portfolio/worldtime/WorldTimeApp.png"
-        ],
-        "url": "https://github.com/Fiston-pro/WorldTimeApp",
-        "technologies": [
-          {
-            "class": "devicon-dart-original",
-            "name": "Dart"
-          },
-          {
-            "class": "devicon-flutter-plain",
-            "name": "Flutter"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Cisco Systems",
-        "title": "Stażysta Inżynier Oprogramowania",
-        "years": "05.2022 - present",
-        "mainTech": [
-          "Python"
-        ],
-        "technologies": [
-          "Python",
-          "Flask",
-          "React",
-          "Figma"
-        ]
-      },
-      {
-        "company": "BiriFresh.ltd",
-        "title": "założyciel techniczny i projektant stron internetowych",
-        "years": "08.2020 - 08.2021",
-        "mainTech": [
-          "Wordpress"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "PHP",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "Star Construction Ltd",
-        "title": "Web Master",
-        "years": "03.2020 - 08.2021",
-        "mainTech": [
-          "Wordpress"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "PHP",
-          "JavaScript"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "BiriFresh",
+      "startDate": "2019",
+      "description": "",
+      "images": [
+        "images/portfolio/birifresh/birifresh-gif.gif"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },{
+          "class":"devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Star Construction",
+      "startDate": "2019",
+      "description": "",
+      "images": [
+        "images/portfolio/starconstruction/starconstruction.gif"
+      ],
+      "url": "https://starconstruction.rw/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },{
+          "class":"devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "menedżer zapasów leków",
+      "startDate": "2020",
+      "description": "Najbardziej rozbudowana aplikacja, nad którą miałem okazję pracować. Nauczyłem się wielu technologii, a mój kod został zrecenzowany przez niesamowitego kuratora. Aplikacja pomaga farmaceucie zarządzać wszystkim w sklepie, powiadamiając o zbliżających się terminach ważności leków i nie tylko",
+      "images": [
+        "images/portfolio/iHealth/health.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },{
+          "class":"devicon-django-plain",
+          "name": "Django"
+        }
+      ]
+    },
+    {
+      "title": "wycena aplikacja",
+      "startDate": "2021",
+      "description": "Aplikacja, która może wyświetlać Twoje ulubione cytaty, gdy tylko poczujesz się przygnębiony. Buduję go za pomocą platformy Flutter i platformy międzyplatformowej, dzięki czemu może działać zarówno na Androidzie, jak i na IOS :)",
+      "images": [
+        "images/portfolio/quoteApp/QuoteApp.gif",
+        "images/portfolio/quoteApp/QuoteApp.png"
+      ],
+      "url": "https://github.com/Fiston-pro/QuoteApp",
+      "technologies": [
+        {
+          "class": "devicon-dart-original",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Dart"
+        }
+      ]
+    },
+    {
+      "title": "ta strona internetowa",
+      "startDate": "2021",
+      "description": "",
+      "images": [
+        "images/portfolio/thisWebsite/this-website.gif"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },{
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },{
+      "title": "aplikacja czasu na świecie",
+      "startDate": "2021",
+      "description": "Jest to aplikacja Flutter działająca na Androidzie lub iOS. Ta aplikacja jest jak czarodziej, który pożycza ci różdżkę i pozwala wybrać dowolne miejsce na naszej planecie oraz natychmiast pokazuje czas i strefę czasową.",
+      "images": [
+        "images/portfolio/worldtime/worldtime.gif",
+        "images/portfolio/worldtime/WorldTimeApp.png"
+      ],
+      "url": "https://github.com/Fiston-pro/WorldTimeApp",
+      "technologies": [
+        {
+          "class": "devicon-dart-original",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Cisco Systems",
+      "title": "Stażysta Inżynier Oprogramowania",
+      "years": "05.2022 - present",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "React",
+        "Figma"
+      ]
+    },
+    {
+      "company": "BiriFresh.ltd",
+      "title": "założyciel techniczny i projektant stron internetowych",
+      "years": "08.2020 - 08.2021",
+      "mainTech": [
+        "Wordpress"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Star Construction Ltd",
+      "title": "Web Master",
+      "years": "03.2020 - 08.2021",
+      "mainTech": [
+        "Wordpress"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript"
+      ]
+    }
+  ]
+}

@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.b2a1d61b.chunk.css",
-    "main.js": "/Website/static/js/main.6729a865.chunk.js",
-    "main.js.map": "/Website/static/js/main.6729a865.chunk.js.map",
-    "runtime-main.js": "/Website/static/js/runtime-main.399c3e81.js",
-    "runtime-main.js.map": "/Website/static/js/runtime-main.399c3e81.js.map",
-    "static/css/2.d64471e2.chunk.css": "/Website/static/css/2.d64471e2.chunk.css",
-    "static/js/2.e164d3fc.chunk.js": "/Website/static/js/2.e164d3fc.chunk.js",
-    "static/js/2.e164d3fc.chunk.js.map": "/Website/static/js/2.e164d3fc.chunk.js.map",
-    "index.html": "/Website/index.html",
-    "precache-manifest.a5758e3e0faa7439c08b444ab8d6d791.js": "/Website/precache-manifest.a5758e3e0faa7439c08b444ab8d6d791.js",
-    "service-worker.js": "/Website/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/Website/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.b2a1d61b.chunk.css.map": "/Website/static/css/main.b2a1d61b.chunk.css.map",
-    "static/js/2.e164d3fc.chunk.js.LICENSE.txt": "/Website/static/js/2.e164d3fc.chunk.js.LICENSE.txt",
-    "static/media/ISHIMWE BYIRINGIRO ETIENNE.pdf": "/Website/static/media/ISHIMWE BYIRINGIRO ETIENNE.d1a81eb0.pdf",
-    "static/media/ishimwe byiringiro etienne (2).pdf": "/Website/static/media/ishimwe byiringiro etienne (2).511d468c.pdf"
+    "main.css": "/static/css/main.aef8e091.chunk.css",
+    "main.js": "/static/js/main.3a0b1250.chunk.js",
+    "main.js.map": "/static/js/main.3a0b1250.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1ecf2b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1ecf2b3.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.628edb34.chunk.js": "/static/js/2.628edb34.chunk.js",
+    "static/js/2.628edb34.chunk.js.map": "/static/js/2.628edb34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.482cbd81e1da1f66336717d4ccf70481.js": "/precache-manifest.482cbd81e1da1f66336717d4ccf70481.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.aef8e091.chunk.css.map": "/static/css/main.aef8e091.chunk.css.map",
+    "static/js/2.628edb34.chunk.js.LICENSE.txt": "/static/js/2.628edb34.chunk.js.LICENSE.txt",
+    "static/media/ISHIMWE CV.pdf": "/static/media/ISHIMWE CV.80e78c14.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.399c3e81.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.e164d3fc.chunk.js",
-    "static/css/main.b2a1d61b.chunk.css",
-    "static/js/main.6729a865.chunk.js"
+    "static/js/runtime-main.f1ecf2b3.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.628edb34.chunk.js",
+    "static/css/main.aef8e091.chunk.css",
+    "static/js/main.3a0b1250.chunk.js"
   ]
 }
