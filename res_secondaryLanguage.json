@@ -176,6 +176,28 @@
           "name": "Flutter"
         }
       ]
+    },{
+      "title": "Edified Generation Rwanda",
+      "startDate": "2022",
+      "description": "Jest to niezależny projekt dotyczący budowy strony internetowej dla organizacji Edified Generation Rwanda",
+      "images": [
+        "images/portfolio/edigenrwanda/edigenrwanda.org_.png"
+      ],
+      "url": "https://edigenrwanda.org/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
     }
   ],
   "experience": [
@@ -188,6 +210,7 @@
       ],
       "technologies": [
         "Python",
+        "JavaScript",
         "Flask",
         "React",
         "Figma"

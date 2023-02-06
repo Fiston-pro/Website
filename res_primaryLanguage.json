@@ -176,6 +176,29 @@
           "name": "Dart"
         }
       ]
+    },
+    {
+      "title": "Edified Generation Rwanda",
+      "startDate": "2022",
+      "description": " It is a Freelance project for building a website for Edified Generation Rwanda Organisation",
+      "images": [
+        "images/portfolio/edigenrwanda/edigenrwanda.org_.png"
+      ],
+      "url": "https://edigenrwanda.org/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
     }
   ],
   "experience": [
